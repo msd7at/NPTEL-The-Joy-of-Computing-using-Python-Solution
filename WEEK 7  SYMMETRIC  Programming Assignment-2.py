@@ -1,4 +1,4 @@
-QUESTION
+"""QUESTION
 
 Given a square matrix of N rows and columns, find out whether it is symmetric or not.
 
@@ -19,7 +19,7 @@ Input:
 Output:
 YES
 
-SOLUTION
+SOLUTION"""
 
 n=int(input())
 l=[]
