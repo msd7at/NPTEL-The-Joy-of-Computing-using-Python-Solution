@@ -1,4 +1,4 @@
-QUESTION:
+""QUESTION:
 
 Given two numbers (integers) as input, print the smaller number.
 
@@ -41,7 +41,7 @@ Due Date Exceeded.
 4 out of 4 tests passed.
 You scored 100.0/100.
 
-ANSWER
+ANSWER ""
 
 a,b=input().split()
 a=int(a)
