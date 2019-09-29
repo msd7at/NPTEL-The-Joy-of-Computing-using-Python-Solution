@@ -1,4 +1,4 @@
-QUESTION
+"""QUESTION
 Given an integer number n, you have to print the factorial of this number. To know about factorial please click on this link.
 
 Input Format:
@@ -18,7 +18,7 @@ Output:
 24
 
 
-SOLUTION
+SOLUTION"""
 
 x=int(input())
 s=1
