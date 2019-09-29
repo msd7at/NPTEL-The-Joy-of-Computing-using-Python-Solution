@@ -1,4 +1,4 @@
-QUESTION
+"""QUESTION
 A Lower triangular matrix is a square matrix (where the number of rows and columns are equal)  where all the elements above the diagonal are zero.
 For example, the following is an upper triangular matrix with the number of rows and columns equal to 3.
 
@@ -48,7 +48,7 @@ In both the examples, elements which are above the diagonal are zero.
 
 
 
-SOLUTION
+SOLUTION """
 
 n=int(input())
 l=[]
