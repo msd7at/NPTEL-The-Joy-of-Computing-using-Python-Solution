@@ -1,4 +1,4 @@
-QUESTION 
+""QUESTION 
 Programming Assignment-3: Email ID
 Due on 2019-10-02, 23:59 IST
 Assuming that we have some email addresses in the "username@companyname.com" format, please write program to print the company name of a given email address. Both user names and company names are composed of letters only.
@@ -15,9 +15,9 @@ Input:
 john@google.com
 
 Output:
-google
+google""
 
-SOLUTION 
+#SOLUTION 
 
 ip=input()
 x=ip.index("@")
