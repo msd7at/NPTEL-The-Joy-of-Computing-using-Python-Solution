@@ -1,4 +1,4 @@
-QUESTION 
+"""QUESTION 
 A panagram is a sentence containing every 26 letters in the English alphabet. Given a string S, check if it is panagram or not.
 
 Input Format:
@@ -15,7 +15,7 @@ The quick brown fox jumps over the lazy dog
 Output:
 YES
 
-SOLUTION
+SOLUTION"""
 
 alphabet=[]
 for i in range(97,123):
