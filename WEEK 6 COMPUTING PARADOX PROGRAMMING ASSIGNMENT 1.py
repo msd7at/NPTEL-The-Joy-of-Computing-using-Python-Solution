@@ -1,4 +1,4 @@
-QUESTION:-
+"""QUESTION:-
 You are provided with a playlist containing N songs, each has a unique positive integer length. Assume you like all the songs from this playlist, but there is a song, which you like more than others.
 It is named "Computing Paradox".
 
@@ -23,7 +23,7 @@ Input:
 1 3 4 2
 2
 
-SOLUTION
+SOLUTION"""
 
 x=int(input())
 lis=[int(i) for i in input().split(" ")]
