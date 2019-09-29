@@ -1,4 +1,4 @@
-QUESTION
+"""QUESTION
 Given an integer number n, define a function named printDict() which can print a dictionary where the keys are numbers between 1 and n (both included) and the values are square of keys.
 The function printDict() doesn't take any argument.
 
@@ -18,7 +18,7 @@ Output:
 
 NOTE: You are supposed to write the code for the function printDict() only. The function has already been called in the main part of the code.
 
-SOLUTION
+SOLUTION"""
 
 def printDict():
   x=int(input())
