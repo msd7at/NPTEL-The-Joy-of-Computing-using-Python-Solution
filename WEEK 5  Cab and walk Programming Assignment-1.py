@@ -1,4 +1,4 @@
-QUESTION
+"""QUESTION
 Arun is working in an office which is N blocks away from his house. He wants to minimize the time it takes him to go from his house to the office.
 He can either take the office cab or he can walk to the office.
 Arun's velocity is V1 m/s when he is walking. The cab moves with velocity V2 m/s but whenever he calls for the cab, it always starts from the office, covers N blocks, collects Arun and goes back to the office.
@@ -33,7 +33,7 @@ Input:
 Output:
 Walk
 
-SOLUTION
+SOLUTION"""
 
 n,v1,v2=input().split(" ")
 n,v1,v2=int(n),int(v1),int(v2)
