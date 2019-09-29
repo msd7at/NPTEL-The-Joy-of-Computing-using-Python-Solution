@@ -1,4 +1,4 @@
-QUESTION 
+"""QUESTION 
 
 You are provided with the number of rows (R) and columns (C). Your task is to generate the matrix having R rows and C columns such that all the numbers are in increasing order starting from 1 in row wise manner.
 
@@ -23,7 +23,7 @@ Output:
 Explanation: 
 Starting from the first row, the numbers are present in the increasing order. Since it's a 3X3 matrix, the numbers are from 1 to 9.
 
-SOLUTION
+SOLUTION"""
 
 r,c=input().split()
 r,c=int(r),int(c)
