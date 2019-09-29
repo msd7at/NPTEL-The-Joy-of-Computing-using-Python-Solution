@@ -1,4 +1,4 @@
-QUESTION
+"""QUESTION
 You all have used the random library of python. You have seen in the screen-cast of how powerful it is.
 In this assignment, you will sort a list let's say list_1 of numbers in increasing order using the random library.
 
@@ -41,7 +41,7 @@ The sorted version of this list is 1 2 3 5, which is the output.
 NOTE 2: There are many ways to sort the elements of a list. The purpose of this assignment is to show the power of randomness, and obviously it's fun.
 
 
-SOLUTION
+SOLUTION """
 
 from random import randint
 n =int(input())
