@@ -1,4 +1,4 @@
-QUESTION :-
+""QUESTION :-
 Given a list of numbers (integers), find second maximum and second minimum in this list.
 
 Input Format:
@@ -18,7 +18,7 @@ Input:
 Output:
 4 2 
 
-SOLUTION :-
+SOLUTION :-""
 
 x=[int(i) for i in input().split()]
 x.sort()
