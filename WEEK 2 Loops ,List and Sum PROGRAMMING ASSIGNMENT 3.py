@@ -1,4 +1,4 @@
-QUESTION:-
+""QUESTION:-
 You all have seen how to write loops in python. Now is the time to implement what you have learned.
 
 Given an array A of N numbers (integers), you have to write a program which prints the sum of the elements of array A with the corresponding elements of the reverse of array A.
@@ -23,9 +23,9 @@ Output:
 3 8 8 3
 
 Explanation:
-Here array A is [2,5,3,1] and reverse of this array is [1,3,5,2] and hence the resultant array is [3,8,8,3]\
+Here array A is [2,5,3,1] and reverse of this array is [1,3,5,2] and hence the resultant array is [3,8,8,3]\""
 
-SOLUTION :-
+#SOLUTION :-
 
 n=int(input())
 a=[int(i) for i in input().split()]
