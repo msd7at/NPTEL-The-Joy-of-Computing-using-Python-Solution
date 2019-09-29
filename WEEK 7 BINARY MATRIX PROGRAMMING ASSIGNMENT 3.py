@@ -1,4 +1,4 @@
-QUESTION
+"""QUESTION
 Given a matrix with N rows and M columns, the task is to check if the matrix is a Binary Matrix. A binary matrix is a matrix in which all the elements are either 0 or 1.
 
 Input Format:
@@ -19,7 +19,7 @@ Input:
 Output:
 YES
 
-SOLUTION
+SOLUTION"""
 
 n,m=map(int,input().split())
 b=0
