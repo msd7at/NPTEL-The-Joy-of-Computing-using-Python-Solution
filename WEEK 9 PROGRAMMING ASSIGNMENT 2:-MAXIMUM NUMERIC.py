@@ -1,4 +1,4 @@
-QUESTION
+''QUESTION
 Given an alphanumeric string S, extract maximum numeric value from that string. All the alphabets are in lower case. Take the maximum consecutive digits as a single number.
 
 Input Format:
@@ -16,9 +16,9 @@ Output:
 98
 
 Explanation:
-There are three integer values present in the string, 23, 43 and 98. Among these, 98 is the maximum
+There are three integer values present in the string, 23, 43 and 98. Among these, 98 is the maximum''
 
-SOLUTION
+#SOLUTION
 
 import re
 ip=input()
