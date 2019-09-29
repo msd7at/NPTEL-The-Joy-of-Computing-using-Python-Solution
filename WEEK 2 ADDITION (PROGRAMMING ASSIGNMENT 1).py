@@ -1,4 +1,4 @@
-QUESTION
+""QUESTION
 Programming Assignments-1: Addition
 Due on 2019-08-14, 23:59 IST
 In this assignment, you will have to take two numbers (integers) as input and print the addition.
@@ -20,9 +20,9 @@ Output:
 6
 
 Explanation:
-Since the addition of numbers 4 and 2 is 6, hence the output is 6.
+Since the addition of numbers 4 and 2 is 6, hence the output is 6.""
 
-SOLUTION
+#SOLUTION
 
 a,b=input().split()
 a=int(a)
