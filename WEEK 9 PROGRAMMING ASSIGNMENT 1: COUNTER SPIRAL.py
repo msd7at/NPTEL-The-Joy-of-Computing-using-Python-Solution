@@ -1,4 +1,4 @@
-VIDEO LINK:- https://youtu.be/eVrBKWhXix8
+"""VIDEO LINK:- https://youtu.be/eVrBKWhXix8
 QUESTION:-
 Given a square matrix, you have to write a program to print it in a counter-clockwise spiral form.
 
@@ -26,7 +26,7 @@ Explanation:
 In the above example, each row, first all the elements of the first column is printed which are 25 24 16 48 after that, remaining elements of the last row is printed which are 25 21 and 19.
 After which the remaining elements of the last column is printed which are 1 32 and 7 and so on...
 
-ANSWER:-
+ANSWER:-"""
 
 a = int(input())
 mat=[]
