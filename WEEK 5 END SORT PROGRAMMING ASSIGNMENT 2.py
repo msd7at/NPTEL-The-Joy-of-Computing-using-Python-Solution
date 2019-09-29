@@ -1,4 +1,4 @@
-QUESTION
+"""QUESTION
 
 Given a list A of N distinct integer numbers, you can sort the list by moving an element to the end of the list. Find the minimum number of moves required to sort the list using this method in ascending order. 
 
@@ -19,7 +19,7 @@ Output:
 Explanation:
 In the first move, we move 3 to the end of the list. In the second move, we move 4 to the end of the list, and finally, in the third movement, we move 5 to the end.
 
-SOLUTION
+SOLUTION"""
 
 x=[int(x) for x in input().split()]
 x1=sorted(x)
